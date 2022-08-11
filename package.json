@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "start": "node -e 'require(`http`).createServer((req, res) => res.end(`Hello World, This Is STAAS!`)).listen(process.env.PORT)'"
+    "start": "node -e 'require(`http`).createServer((req, res) => res.end(`Hello World, This Is STAAS with GitHub [001]`)).listen(process.env.PORT)'"
   }
 }
