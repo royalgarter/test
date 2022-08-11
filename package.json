@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "node -e 'require(`http`).createServer((req, res) => res.end(`Hello World, This Is STAAS!`)).listen(process.env.PORT)'"
+  }
+}
